@@ -1,0 +1,5 @@
+{
+  "alert_type": "bruteforce",
+  "source_ip": "10.0.0.5",
+  "target_user": "administrator"
+}

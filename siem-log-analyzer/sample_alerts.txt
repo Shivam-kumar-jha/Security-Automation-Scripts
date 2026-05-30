@@ -1,0 +1,4 @@
+=== Security Alerts ===
+[ALERT] Possible brute-force activity detected
+[ALERT] Privileged account logon observed
+[ALERT] Kerberos service ticket activity observed
