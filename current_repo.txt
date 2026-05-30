@@ -1,0 +1,207 @@
+.
+├── .git
+│   ├── COMMIT_EDITMSG
+│   ├── config
+│   ├── description
+│   ├── HEAD
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── pre-merge-commit.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── pre-receive.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── push-to-checkout.sample
+│   │   ├── sendemail-validate.sample
+│   │   └── update.sample
+│   ├── index
+│   ├── info
+│   │   └── exclude
+│   ├── logs
+│   │   ├── HEAD
+│   │   └── refs
+│   │       ├── heads
+│   │       │   └── main
+│   │       └── remotes
+│   │           └── origin
+│   │               ├── HEAD
+│   │               └── main
+│   ├── objects
+│   │   ├── 07
+│   │   │   └── 15bf9d3dcff77e04c8c9f2c62415cea1cfd8a0
+│   │   ├── 1d
+│   │   │   └── e6f89d0153a2f19c786044174c2534883d5810
+│   │   ├── 23
+│   │   │   └── 32bad8f9d0818d2114cee9d8837be57fd745a8
+│   │   ├── 24
+│   │   │   └── 4ed42c569183aa12e40288b077a1cf2bc09d15
+│   │   ├── 2f
+│   │   │   └── b9ee119ec9ba3e7c3b0356140dce768720109c
+│   │   ├── 32
+│   │   │   └── fe73d0601781e3b1fa4601f44691693bbbc2b0
+│   │   ├── 46
+│   │   │   └── ea17959e94205be8d7bfdad84f59285554cdfb
+│   │   ├── 4d
+│   │   │   └── 617520da6f82aa13e9d7bd37d718aad4097916
+│   │   ├── 63
+│   │   │   └── c304b2a2f4c48cf957ae2ef560c311caacd359
+│   │   ├── 64
+│   │   │   └── df1fe2349f950a3dea7533fab6a5ac541b6aa4
+│   │   ├── 6b
+│   │   │   └── 3041996634dcc5c123d1e17d695da2642b10fc
+│   │   ├── 75
+│   │   │   └── dd8a36ac53313f4168ab3522722621cf9928ed
+│   │   ├── 77
+│   │   │   └── 6b67520993035a533ba296d13522260af1aaeb
+│   │   ├── 7c
+│   │   │   └── ee03cd08905480a5f5db3a93499498e441788f
+│   │   ├── 85
+│   │   │   └── 92f3f7fed59c1d4ff4fb93b6e52dcefea31650
+│   │   ├── 8e
+│   │   │   └── 0caf71bb4478c946f2a5ef4061d4694e24ae22
+│   │   ├── 97
+│   │   │   └── 26b4c3412b98a58bf80c180717e4a781458206
+│   │   ├── a0
+│   │   │   └── 7f326a0b0866d94574aead62748aebd93c90b9
+│   │   ├── c0
+│   │   │   └── 8030fcdb385e20eb293b0d2b70f9db83f120e1
+│   │   ├── d5
+│   │   │   └── 64d0bc3dd917926892c55e3706cc116d5b165e
+│   │   ├── d6
+│   │   │   └── a9ea3cefb44dfd8c2930c91d42e4b471afaaec
+│   │   ├── dd
+│   │   │   └── 409f54ee6020f7a5d36aa1eb0533e172b13c90
+│   │   ├── e6
+│   │   │   └── 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+│   │   ├── e8
+│   │   │   └── b6c0fe37aa63b4a8cea482ebc3608c8a6e5e78
+│   │   ├── ee
+│   │   │   └── 58f692c27fcdd4789fd6885a5213c7e3e27684
+│   │   ├── f0
+│   │   │   └── 13df1be0d29d0400e0f4234fc43d24b2cedde1
+│   │   ├── info
+│   │   └── pack
+│   │       ├── pack-d1da0296167aaabf5edd95fa43d59569b4f1d9dd.idx
+│   │       ├── pack-d1da0296167aaabf5edd95fa43d59569b4f1d9dd.pack
+│   │       └── pack-d1da0296167aaabf5edd95fa43d59569b4f1d9dd.rev
+│   ├── packed-refs
+│   └── refs
+│       ├── heads
+│       │   └── main
+│       ├── remotes
+│       │   └── origin
+│       │       ├── HEAD
+│       │       └── main
+│       └── tags
+├── current_repo.txt
+├── evidence
+│   ├── .gitkeep
+│   ├── ir_trigger_demo.png
+│   ├── nessus_parser_demo.png
+│   ├── repository_structure.png
+│   └── siem_analyzer_demo.png
+├── incident-response
+│   ├── .gitkeep
+│   ├── ir_trigger.sh
+│   ├── README.md
+│   ├── sample_bruteforce_alert.json
+│   └── sample_lateral_alert.json
+├── nessus-parser
+│   ├── .gitkeep
+│   ├── nessus_parser.py
+│   ├── README.md
+│   ├── sample_output.csv
+│   └── sample_report.nessus
+├── README.md
+└── siem-log-analyzer
+    ├── .gitkeep
+    ├── README.md
+    ├── sample_alerts.txt
+    ├── sample_logs.json
+    └── siem_analyzer.py
+
+47 directories, 79 files
+./.git/COMMIT_EDITMSG
+./.git/config
+./.git/description
+./.git/HEAD
+./.git/hooks/applypatch-msg.sample
+./.git/hooks/commit-msg.sample
+./.git/hooks/fsmonitor-watchman.sample
+./.git/hooks/post-update.sample
+./.git/hooks/pre-applypatch.sample
+./.git/hooks/pre-commit.sample
+./.git/hooks/pre-merge-commit.sample
+./.git/hooks/pre-push.sample
+./.git/hooks/pre-rebase.sample
+./.git/hooks/pre-receive.sample
+./.git/hooks/prepare-commit-msg.sample
+./.git/hooks/push-to-checkout.sample
+./.git/hooks/sendemail-validate.sample
+./.git/hooks/update.sample
+./.git/index
+./.git/info/exclude
+./.git/logs/HEAD
+./.git/logs/refs/heads/main
+./.git/logs/refs/remotes/origin/HEAD
+./.git/logs/refs/remotes/origin/main
+./.git/objects/07/15bf9d3dcff77e04c8c9f2c62415cea1cfd8a0
+./.git/objects/1d/e6f89d0153a2f19c786044174c2534883d5810
+./.git/objects/23/32bad8f9d0818d2114cee9d8837be57fd745a8
+./.git/objects/24/4ed42c569183aa12e40288b077a1cf2bc09d15
+./.git/objects/2f/b9ee119ec9ba3e7c3b0356140dce768720109c
+./.git/objects/32/fe73d0601781e3b1fa4601f44691693bbbc2b0
+./.git/objects/46/ea17959e94205be8d7bfdad84f59285554cdfb
+./.git/objects/4d/617520da6f82aa13e9d7bd37d718aad4097916
+./.git/objects/63/c304b2a2f4c48cf957ae2ef560c311caacd359
+./.git/objects/64/df1fe2349f950a3dea7533fab6a5ac541b6aa4
+./.git/objects/6b/3041996634dcc5c123d1e17d695da2642b10fc
+./.git/objects/75/dd8a36ac53313f4168ab3522722621cf9928ed
+./.git/objects/77/6b67520993035a533ba296d13522260af1aaeb
+./.git/objects/7c/ee03cd08905480a5f5db3a93499498e441788f
+./.git/objects/85/92f3f7fed59c1d4ff4fb93b6e52dcefea31650
+./.git/objects/8e/0caf71bb4478c946f2a5ef4061d4694e24ae22
+./.git/objects/97/26b4c3412b98a58bf80c180717e4a781458206
+./.git/objects/a0/7f326a0b0866d94574aead62748aebd93c90b9
+./.git/objects/c0/8030fcdb385e20eb293b0d2b70f9db83f120e1
+./.git/objects/d5/64d0bc3dd917926892c55e3706cc116d5b165e
+./.git/objects/d6/a9ea3cefb44dfd8c2930c91d42e4b471afaaec
+./.git/objects/dd/409f54ee6020f7a5d36aa1eb0533e172b13c90
+./.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+./.git/objects/e8/b6c0fe37aa63b4a8cea482ebc3608c8a6e5e78
+./.git/objects/ee/58f692c27fcdd4789fd6885a5213c7e3e27684
+./.git/objects/f0/13df1be0d29d0400e0f4234fc43d24b2cedde1
+./.git/objects/pack/pack-d1da0296167aaabf5edd95fa43d59569b4f1d9dd.idx
+./.git/objects/pack/pack-d1da0296167aaabf5edd95fa43d59569b4f1d9dd.pack
+./.git/objects/pack/pack-d1da0296167aaabf5edd95fa43d59569b4f1d9dd.rev
+./.git/packed-refs
+./.git/refs/heads/main
+./.git/refs/remotes/origin/HEAD
+./.git/refs/remotes/origin/main
+./current_repo.txt
+./evidence/.gitkeep
+./evidence/ir_trigger_demo.png
+./evidence/nessus_parser_demo.png
+./evidence/repository_structure.png
+./evidence/siem_analyzer_demo.png
+./incident-response/.gitkeep
+./incident-response/ir_trigger.sh
+./incident-response/README.md
+./incident-response/sample_bruteforce_alert.json
+./incident-response/sample_lateral_alert.json
+./nessus-parser/.gitkeep
+./nessus-parser/nessus_parser.py
+./nessus-parser/README.md
+./nessus-parser/sample_output.csv
+./nessus-parser/sample_report.nessus
+./README.md
+./siem-log-analyzer/.gitkeep
+./siem-log-analyzer/README.md
+./siem-log-analyzer/sample_alerts.txt
+./siem-log-analyzer/sample_logs.json
+./siem-log-analyzer/siem_analyzer.py
