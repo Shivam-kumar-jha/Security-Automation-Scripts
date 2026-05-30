@@ -1,0 +1,26 @@
+<NessusClientData_v2>
+  <Report name="Sample Scan">
+
+    <ReportHost name="192.168.1.10">
+
+      <ReportItem
+        pluginName="OpenSSH Detection"
+        severity="2" />
+
+      <ReportItem
+        pluginName="Apache HTTP Server Detection"
+        severity="3" />
+
+    </ReportHost>
+
+    <ReportHost name="192.168.1.20">
+
+      <ReportItem
+        pluginName="SMB Signing Disabled"
+        severity="4" />
+
+    </ReportHost>
+
+  </Report>
+
+</NessusClientData_v2>

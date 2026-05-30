@@ -1,0 +1,4 @@
+Host,Plugin,Severity
+192.168.1.10,OpenSSH Detection,2
+192.168.1.10,Apache HTTP Server Detection,3
+192.168.1.20,SMB Signing Disabled,4
